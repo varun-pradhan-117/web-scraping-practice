@@ -1,0 +1,3 @@
+scrapy crawl countries -o population_data.json
+scrapy crawl countries -o population_data.csv
+scrapy crawl countries -o population_data.xml
